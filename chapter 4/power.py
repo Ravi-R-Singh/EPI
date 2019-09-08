@@ -11,4 +11,4 @@ def power(x: float, y: int) -> float:
     return result
 
 
-print(power2(float(sys.argv[1]),int(sys.argv[2])))
+print(power(float(sys.argv[1]),int(sys.argv[2])))
